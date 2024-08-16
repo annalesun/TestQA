@@ -1,7 +1,7 @@
 ﻿#language: ru
 
 @tree
-
+@critical
 Функционал: Циклы
 
 Как <Роль> я хочу
